@@ -3,9 +3,9 @@ namespace Product
 {
     public class Calculator
     {
-        public static int Add(string numbers)
+        public static int Add(string number)
         {
-            return -1;
+            return number == "" ? 0 : Convert.ToInt32(number);
         }
     }
 }
