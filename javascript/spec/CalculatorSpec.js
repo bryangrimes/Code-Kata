@@ -17,6 +17,11 @@ describe("Add", function() {
 
   it("should return sum with commas and new lines", function(){
   	expect("1\n2,3").toReturnSum(6);
+    expect("1\n2\n3").toReturnSum(6);
+  });
+
+  it("should return a sum using a custom delimeter", function(){
+    expect(";\n1;3").toReturnSum(4);
   });
 
 });
