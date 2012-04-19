@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bootstrap for TDD Kata
 ======================
 
@@ -10,3 +11,9 @@ The javascript test uses Jasmine and is self contained.  Just run SpecRunner.htm
 The .Net sample requires Visual Studio and [NUnit](http://www.nunit.org/)
 
 Both samples are set at step 1 with a failing test.
+=======
+Code-Kata
+=========
+
+little working javascript dail kata for tdd with jasmine
+>>>>>>> 833b4c16e0d1ec859d075c2c5c3d5ae1308beea9
