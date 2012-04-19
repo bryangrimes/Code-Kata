@@ -1,0 +1,9 @@
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\bin\Debug\Product.Tests.dll
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\bin\Debug\Product.Tests.pdb
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\bin\Debug\nunit.framework.dll
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\bin\Debug\Product.dll
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\bin\Debug\Product.pdb
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\bin\Debug\nunit.framework.xml
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\obj\Debug\Product.Tests.dll
+C:\Stuff\Kata\code-kata\Csharp\Product.Tests\obj\Debug\Product.Tests.pdb
