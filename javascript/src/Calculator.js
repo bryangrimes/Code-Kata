@@ -24,9 +24,8 @@ function Add(input) {
 	var sum = 0;
 	for (var i = nums.length - 1; i >= 0; i--){
 		// negatives throw error
-		if(nums[i] < 0){
+		if(nums[i] < 0)
 			throw new Error("ERROR!");
-		}
 
 		sum += parseInt(nums[i], 10);
 	}
