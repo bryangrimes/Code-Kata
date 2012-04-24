@@ -25,4 +25,8 @@ describe("Add", function() {
     expect("//A\n1A2A3").toReturnSum(6);
   });
 
+  it("should throw error with single negative number", function(){
+    expect("-1").toReturnSum(0);
+  });
+
 });
