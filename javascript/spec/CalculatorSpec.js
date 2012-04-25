@@ -27,7 +27,7 @@ describe("Add", function() {
   });
 
   it("negative number error", function(){
-    string num = "-1";
+    var num = "-1";
     expect(function() {Add(num);}).toThrow("negatives not allowed");
   });
 
