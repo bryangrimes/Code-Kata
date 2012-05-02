@@ -19,15 +19,14 @@ function parse_input(input) {
 function Add(input) {
 	var nums = parse_input(input);
 	var sum = 0;
-
 	var negatives = [];
 
 	for (var i = nums.length - 1; i >= 0; i--){
-		// negatives can't go on....
 		if(nums[i] < 0)
 			negatives.push(nums[i]);
 		
-		sum += parseInt(nums[i], 10);
+		if(nums[i] <= 1000)
+			sum += parseInt(nums[i], 10);
 	}
 
 	if(negatives.length > 0){

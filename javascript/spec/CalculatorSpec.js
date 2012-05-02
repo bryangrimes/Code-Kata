@@ -34,6 +34,14 @@ describe("Add", function() {
   it("negative numbers are returned in error", function(){
     var num = "-1,-3";
     expect(function() {Add(num);}).toThrow(new Error("negatives not allowed: " + num));
+
+    num = "//@\n-1@-2";
+    expect(function() {Add(num);}).toThrow(new Error("negatives not allowed: -1,-2"));
+  });
+
+  it("numbers bigger than 1000 are ignored", function(){
+    expect("5, 1001").toReturnSum(5);
+    expect("5, 1000").toReturnSum(1005);
   });
 
 });
