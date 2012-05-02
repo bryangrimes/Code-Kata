@@ -1,5 +1,5 @@
 describe("Add", function() {
-  it("empty input retusrns 0", function() {
+  it("empty input returns 0", function() {
     expect("").toReturnSum(0);
   });
 
