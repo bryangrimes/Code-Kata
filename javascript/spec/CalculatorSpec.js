@@ -28,12 +28,12 @@ describe("Add", function() {
 
   it("negative number error", function(){
     var num = "-1";
-    expect(function() {Add(num);}).toThrow("negatives not allowed: -1");
+    expect(function() {Add(num);}).toThrow(new Error("negatives not allowed: -1"));
   });
 
   it("negative numbers are returned in error", function(){
-    var num = "-1, -3";
-    expect(function() {Add(num);}).toThrow("negatives not allowed: -1, -3");
+    var num = "-1,-3";
+    expect(function() {Add(num);}).toThrow(new Error("negatives not allowed: " + num));
   });
 
 });

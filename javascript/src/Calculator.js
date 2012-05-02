@@ -24,16 +24,15 @@ function Add(input) {
 
 	for (var i = nums.length - 1; i >= 0; i--){
 		// negatives can't go on....
-
 		if(nums[i] < 0)
-			negatives.push(nums[i]); 
+			negatives.push(nums[i]);
 		
-		if(negatives.length > 0){
-			//throw {name : "NotImplementedError", message : "negatives not allowed"};
-			throw new Error("negatives not allowed: " + negatives.pop());
-		}
-
 		sum += parseInt(nums[i], 10);
 	}
+
+	if(negatives.length > 0){
+		throw new Error("negatives not allowed: " + negatives.reverse().join());
+	}
+
 	return sum;
 }
