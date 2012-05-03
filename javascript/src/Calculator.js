@@ -2,7 +2,7 @@ function parse_input(input) {
 	if (input === "") return 0;
 
 	// get the delimeter out of the input
-	var delimeter = new RegExp("//(.)\n(.*)");
+	var delimeter = new RegExp("//(.*)\n(.*)");
 	var splitter = new RegExp(/[,|\n]/);
 
 	var match = input.match(delimeter);  // is there a custom delim in the string?

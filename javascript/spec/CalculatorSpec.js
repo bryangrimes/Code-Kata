@@ -44,4 +44,8 @@ describe("Add", function() {
     expect("5, 1000").toReturnSum(1005);
   });
 
+  it("allow for delimeters of more than one character", function(){
+      expect("//[***]\n1***2***3").toReturnSum(6);
+  });
+
 });
