@@ -8,8 +8,10 @@
     negatives.push nums[i]  if nums[i] < 0
     sum += parseInt(nums[i], 10)  if nums[i] <= 1000
     i--
+
   throw new Error("negatives not allowed: " + negatives.reverse().join())  if negatives.length > 0
-  sum
+  
+  sum # implicit return
 
 # return splitted array
 parse_input = (input) ->
@@ -25,4 +27,4 @@ parse_input = (input) ->
     input = match[2]
     splitter = new RegExp("[,|\n|" + delimeter + "]")
 
-  input.split splitter
+  input.split splitter # implicit return
