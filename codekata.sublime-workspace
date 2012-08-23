@@ -1,0 +1,797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"To",
+				"throw"
+			],
+			[
+				"e",
+				"expect"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"to",
+				"toReturnSum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "javascript/SpecRunner.html",
+			"settings":
+			{
+				"buffer_size": 1434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "javascript/src/Calculator.js",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "javascript/spec/CalculatorSpec.js",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"jso",
+				"Jasmine: Switch between code and spec"
+			],
+			[
+				"set syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"set sy",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ang",
+				"Package Control: Disable Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"li",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				":Q",
+				"Set Syntax: SQL"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"set syntax: ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 428.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//ep-fshare/epfiles/Software/Microsoft/VisioProfessional2010/Key.txt",
+		"//epiis02/c$/inetpub/EPWeb/MVC/PT/Web.config",
+		"/C/Stuff/Dropbox/EP/NET/EPNet2.0/Release0060/EPNET2.MVC/js/accountchange.js",
+		"/C/Projects/jira-form/app/js/app.js",
+		"/C/Projects/jira-form/app/js/directives.js",
+		"/C/Projects/jira-form/app/js/controllers.js",
+		"/C/Projects/jira-form/app/js/filters.js",
+		"/C/Projects/jira-form/app/js/config_sample.js",
+		"/C/Projects/jira-form/config/jstd-scenario-adapter-config.js",
+		"//ep-fshare/epfiles/Software/Microsoft/VisualStudio2012/keys.txt",
+		"/C/Stuff/Dropbox/EP/NET/EP.REST/EPREST/Web.config",
+		"/C/Users/Bryan/Desktop/AwardTester/AwardTester/FileParser.cs",
+		"/C/Users/Bryan/Desktop/test.json",
+		"/C/Users/Bryan/Desktop/test2.json",
+		"/C/Users/Bryan/Desktop/build commands branch to trunk.txt",
+		"/c/Users/Bryan/Desktop/AwardTester/.gitignore",
+		"/C/Users/Bryan/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Bryan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Bryan/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Bryan/Desktop/AwardTester/AwardTester.DAL/Repository/AccountRepository.cs",
+		"/C/Users/Bryan/Desktop/appian thing.txt",
+		"//ep-fshare/epfiles/Software/Microsoft/VisioProfessional2007/Viso 2007 Key.txt",
+		"/C/Users/Bryan/Desktop/scott commit.txt",
+		"/C/Projects/EPWeb-1.5-Master/httpdocs/myinbound/test.json",
+		"//Epdbdev02/dev/BuildArchive/QA 8-14-2012 10.49.25 AM/Report/Pricing_SVN_Comments.txt",
+		"/C/Projects/EPWeb-1.5-Master/httpdocs/myinbound/faq2.php",
+		"/C/Projects/EPWeb-1.5-Master/httpdocs/myinbound/includes/faqData.json",
+		"/C/Users/Bryan/Desktop/affinity 101.txt",
+		"/C/Projects/EPWeb-1.5-Master/httpdocs/myinbound/faq/section_seven/general.php",
+		"/C/Projects/EPWeb-1.5-Master/httpdocs/myinbound/faq/section_two/rate.php",
+		"/C/Projects/EPWeb-1.5-Master/httpdocs/lib/EP/Model/Ib/Content.php",
+		"/C/Projects/EPWeb-1.5-Master/httpdocs/myinbound/includes/header.php",
+		"//ep-fshare/epfiles/Software/Microsoft/Office2010/key.txt",
+		"/C/Projects/EPWeb-1.5-Master/httpdocs/.htaccess",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Bryan/Desktop/EE rights.sql",
+		"/C/Stuff/Dropbox/EP/NET/EPNet2.0/Release0060/EPNET2.MVC/js/memberForm/changeRequest.js",
+		"/C/Stuff/Dropbox/EP/NET/EPNet2.0/Release0060/EPNET2.MVC/Controllers/ChangeRequestController.cs",
+		"/C/Stuff/Dropbox/EP/NET/EP.SOA/Release0060/EP.Core.Business/Services/ChangeRequestService.cs",
+		"/C/Stuff/Dropbox/EP/NET/EPNet2.0/Release0060/EPNET2.MVC/Views/ChangeRequest/Index.cshtml",
+		"/C/Users/Bryan/Desktop/angular-phonecat-mongodb-rest/app/js/app.js",
+		"/C/Users/Bryan/Desktop/angular-phonecat-mongodb-rest/app/js/services.js",
+		"/C/Users/Bryan/Desktop/angular-phonecat-mongodb-rest/app/partials/phone-aggre.html",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/index.html",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/test/e2e/scenarios.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/js/controllers.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/js/app.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/test/unit/controllersSpec.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/partials/phone-detail.html",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/js/services.js",
+		"//ep-web02/c$/inetpub/EPServices/Web.config",
+		"/C/Users/Bryan/Desktop/Deploy/EPServices/Web.config",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/lib/angular/angular-resource.js",
+		"/C/Users/Bryan/Desktop/angular-phonecat-mongodb-rest/load.js",
+		"/C/Users/Bryan/Desktop/angular-phonecat-mongodb-rest/node_modules/mongojs/node_modules/mongodb/install.js",
+		"//ep-web02/c$/inetpub/EPWeb/Web.config",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/test/unit/filtersSpec.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/test/unit/directivesSpec.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/partials/phone-list.html",
+		"/C/Users/Bryan/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/phones/phones.json",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/phones/dell-streak-7.json",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/test/lib/angular/angular-mocks.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/scripts/private/push-to-github.sh",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/config/jsTestDriver-scenario.conf",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/js/filters.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/app/js/directives.js",
+		"/C/Users/Bryan/Desktop/angular_demo/angular-phonecat/test/e2e/runner.html",
+		"/C/Users/Bryan/Desktop/angular-1.0.1.min.js",
+		"/C/Users/Bryan/Desktop/tdd_js/weewikipaint/jake.bat",
+		"/C/Users/Bryan/Desktop/tdd_js/weewikipaint/build/lint/lint_runner.js",
+		"/C/Users/Bryan/Desktop/tdd_js/weewikipaint/src/server/server.js",
+		"/C/Users/Bryan/Desktop/tdd_js/weewikipaint/jakefile.js",
+		"//ep-fshare/epfiles/Software/Microsoft/Office2007/office_professional_plus_2007_key.txt",
+		"//epiis01/c$/inetpub/EPServices-DEV/Web.config",
+		"//epiis02/c$/inetpub/EPWeb/SOA/QA/NLog.config",
+		"//epiis01/c$/logs/ep.soa.txt",
+		"/C/Users/Bryan/Desktop/reps.csv",
+		"/C/Users/Bryan/AppData/Local/Temp/Temp1_statesinsert.zip/states insert.txt",
+		"/C/Users/Bryan/Desktop/epccrstates insert",
+		"/C/Users/Bryan/Desktop/tdd_js/weewikipaint/.gitignore",
+		"/C/Users/Bryan/Desktop/54 and 57",
+		"/C/Stuff/Dropbox/EP/Gist/sprint_metrics.rb",
+		"/C/Users/Bryan/AppData/Local/Temp/Web.PROD.config-revHEAD.svn002.tmp.config",
+		"/C/Users/Bryan/Desktop/jamesshore-lets_code_javascript-dcbcac5/jake.bat",
+		"/C/Users/Bryan/Desktop/jamesshore-lets_code_javascript-dcbcac5/jake.bat.txt",
+		"/C/Dev Tools/node-dev-bootstrap/Vagrantfile",
+		"/C/Users/Bryan/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/NQ927BJA/EP - Courtesy Credit Requests 20120621.export-log.txt",
+		"/C/Users/Bryan/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/KPY8COKZ/EP - Courtesy Credit Requests 20120622.import-log.txt",
+		"/C/Users/Bryan/Desktop/CourtesyCreditProcess.js",
+		"/C/Users/Bryan/Desktop/Global.js",
+		"/C/Users/Bryan/Desktop/jboss1-stdOut.log.2012-06-21",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/harvester.rb",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/harvester_manager.rb",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/sftp_harvester.rb",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/generator.rb",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/Csv_2_sql.rb",
+		"/C/Users/Bryan/Desktop/CourtesyCreditProcess (1).js",
+		"/C/Users/Bryan/Desktop/all appian logs",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/csv_to_sql_spec.rb",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/testData/raw.csv",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/jobrunner.thor",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/cli_spec.rb",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/README.md",
+		"/C/Users/Bryan/Desktop/harvester/harvester_spec.rb",
+		"/C/Users/Bryan/Desktop/harvester/harvester.rb",
+		"/C/Stuff/Dropbox/EP/code-kata/javascript/src/Calculator.js",
+		"/C/Stuff/Dropbox/EP/code-kata/javascript/SpecRunner.html",
+		"/C/Stuff/Dropbox/school/ECON 331/stock paper/stuff.txt",
+		"/C/Stuff/Dropbox/EP/code-kata/javascript/src/Calculator.coffee",
+		"/C/Stuff/Dropbox/EP/code-kata/javascript/spec/CalculatorSpec.js",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/commit.rb",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/.gitattributes",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/.gitignore",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/commit_spec.rb",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/HookConfig.rb",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/jira_api.rb",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/pre-commit.bat",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/post-commit.bat",
+		"/C/Users/Bryan/Desktop/VCSCommitHooks/go_test.bat",
+		"/C/Stuff/Dropbox/EP/VCSCommitHooks/HookConfig.rb",
+		"/c/Stuff/DropBox/EP/VCSCommitHooks/HookConfig.rb",
+		"/C/Stuff/Dropbox/EP/code-kata/javascript/Guardfile",
+		"/C/Users/Bryan/Desktop/mongodb-csharp/src/MongoDBBlog.Tester/Program.cs",
+		"/C/Stuff/Dropbox/school/ACCT 101/worldcom/paper questions to answer.txt",
+		"/C/Users/Bryan/Desktop/mongodb-csharp/src/MongoDBBlog.Tester/Post.cs",
+		"/C/Stuff/Dropbox/EP/code-kata/javascript/spec/SpecHelper.js",
+		"/C/Users/Bryan/AppData/Local/Temp/Temp1_mongodb-csharp.zip/src/MongoDBBlog.Tester/Post.cs"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Bryan\\Desktop\\angular_demo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"new tab",
+			"tab",
+			"\"",
+			"[",
+			"]",
+			"[",
+			"]",
+			"],",
+			"pete-",
+			"JIRA Ticket(s): ",
+			"CheckForBackEndPromo",
+			"phonecatServices",
+			"states",
+			"]",
+			"[",
+			"Release54c  (HF #3)\n[EPNET-419]\n[DATA-356]\n[CISCO-321]\n[CISCO-308]\n[DATA-445]\n[EPNET-411]\n[CISCO-302]\n\nRelease0057\n[EPNET-394]\n[EPNET-358]\n[EPNET-417]\n[WNBCK-306]\n[EPNET-410]\n[EPNET-387]\n[EPNET-404]\n[EPNET-393]\n[CISCO-281]\n[EPNET-361]\n[EPNET-395]\n[EPNET-385]\n[EPNET-403]\n[EPNET-401]\n[DATA-291]",
+			"greater than",
+			"detect_",
+			"beforeEach",
+			"usp_Compensation_compUPDATE_Save_01c",
+			"SaveStatus = 'RESAVE'",
+			"set SaveStatus = 'RESAVE'",
+			"usp_Compensation_compUPDATE_Save_01c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"",
+			"',",
+			"'",
+			"",
+			" ",
+			"",
+			",",
+			"epstate",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "javascript/SpecRunner.html",
+					"settings":
+					{
+						"buffer_size": 1434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								810
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "javascript/src/Calculator.js",
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "javascript/spec/CalculatorSpec.js",
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.509100101112,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true
+}
