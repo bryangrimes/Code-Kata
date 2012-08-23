@@ -22,11 +22,11 @@
       if (nums[i] < 0) {
         negatives.push(nums[i]);
       }
+      if (nums[i] <= 1000) {
+        sum += parseInt(nums[i], 10);
+      }
       i--;
     }
-    sum = nums.reduce(function(t, s) {
-      return parseInt(t, 10) + parseInt(s, 10);
-    });
     if (negatives.length > 0) {
       throw new Error("negatives not allowed: " + negatives.reverse().join());
     }

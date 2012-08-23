@@ -18,10 +18,11 @@
 
   while i >= 0
     negatives.push nums[i]  if nums[i] < 0
-    #sum += parseInt(nums[i], 10)  if nums[i] <= 1000
+    sum += parseInt(nums[i], 10)  if nums[i] <= 1000
     i--
   
-  sum = nums.reduce (t,s) -> parseInt(t,10) + parseInt(s,10)
+  #sum = nums.reduce (t,s) -> parseInt(t,10) + parseInt(s,10)
+  
   # error check
   throw new Error("negatives not allowed: " + negatives.reverse().join())  if negatives.length > 0
 
